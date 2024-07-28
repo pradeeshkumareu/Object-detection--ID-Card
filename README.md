@@ -1,7 +1,4 @@
 # YOLO Object Detection for ID Card
-![face_capturing](https://github.com/user-attachments/assets/53d8452a-93cf-454e-913e-ed8d86301ff3)
-![with_id_card](https://github.com/user-attachments/assets/3ca65788-4df6-4071-ae1b-71b34df620fc)
-
 Overview
 This project demonstrates an application of YOLO (You Only Look Once) for real-time object detection and distance measurement of ID cards using a webcam. The application utilizes a pre-trained YOLO model to detect ID cards, draw bounding boxes around detected objects, and calculate the distance from the camera based on the size of the detected object.
 
@@ -62,3 +59,33 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 For questions or support, please contact: pradeeshkumareu@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+Captured face when person not wearing Idcard :
+
+
+![face_capturing](https://github.com/user-attachments/assets/53d8452a-93cf-454e-913e-ed8d86301ff3)
+
+
+
+
+
+
+
+
+
+
+Detecting ID card :
+
+
+![with_id_card](https://github.com/user-attachments/assets/3ca65788-4df6-4071-ae1b-71b34df620fc)
