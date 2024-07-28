@@ -32,10 +32,8 @@ Download YOLO Model:
 Download the pre-trained YOLO model (id_card_v5.pt) from the provided source or train your own model and place it in the project directory.
 Run the Script:
 
-Execute the script using Python:
-bash
-Copy code
-python your_script_name.py
+Execute the script using Python
+
 View Results:
 
 The webcam feed will open in a window displaying detected ID cards, bounding boxes, confidence scores, and calculated distances.
